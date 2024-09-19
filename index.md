@@ -1,6 +1,5 @@
 ---
-title: Welcome to my blog
---I am glad you are here!
+title: Welcome to my blog. I am glad you are here!
 
 ---
 
